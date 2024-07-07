@@ -1,0 +1,6 @@
+@finapp_backend_HostAddress = http://localhost:5119
+
+GET {{finapp_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
